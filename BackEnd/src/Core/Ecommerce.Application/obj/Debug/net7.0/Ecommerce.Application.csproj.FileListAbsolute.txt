@@ -1,0 +1,15 @@
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.deps.json
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.pdb
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Domain.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Domain.pdb
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.csproj.AssemblyReference.cache
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.AssemblyInfoInputs.cache
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.AssemblyInfo.cs
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.csproj.CopyComplete
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\refint\Ecommerce.Application.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.pdb
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\ref\Ecommerce.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.deps.json
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.pdb
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Application.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Domain.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Application.pdb
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Domain.pdb
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.CopyComplete
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\refint\Ecommerce.Infrastructure.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.pdb
+C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\ref\Ecommerce.Infrastructure.dll

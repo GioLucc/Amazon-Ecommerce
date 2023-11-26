@@ -107,6 +107,42 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Ecommerce.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Ecommerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Application.dll": {}
+        }
+      },
+      "Ecommerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Ecommerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Domain.dll": {}
+        }
+      },
+      "Ecommerce.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Ecommerce.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -451,10 +487,27 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Ecommerce.Application/1.0.0": {
+      "type": "project",
+      "path": "../Core/Ecommerce.Application/Ecommerce.Application.csproj",
+      "msbuildProject": "../Core/Ecommerce.Application/Ecommerce.Application.csproj"
+    },
+    "Ecommerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Core/Ecommerce.Domain/Ecommerce.Domain.csproj",
+      "msbuildProject": "../Core/Ecommerce.Domain/Ecommerce.Domain.csproj"
+    },
+    "Ecommerce.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Ecommerce.Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Ecommerce.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Ecommerce.Application >= 1.0.0",
+      "Ecommerce.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.1",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -465,11 +518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Api\\Ecommerce.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Api\\Ecommerce.Api.csproj",
       "projectName": "Ecommerce.Api",
-      "projectPath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Api\\Ecommerce.Api.csproj",
+      "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Api\\Ecommerce.Api.csproj",
       "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Api\\obj\\",
+      "outputPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -483,7 +536,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            },
+            "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

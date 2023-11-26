@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
+    "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Core\\Ecommerce.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

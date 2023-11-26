@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DRwb4XE76fLTYsVb+/uZnSALcAKIb9GtukeKxX8y7v3RSXmOiSyG7IYE6jWEW4U5Ufdbq0JjbLqIYhIM7UVbYg==",
+  "dgSpecHash": "yIVSk/N4vXqw6Qy5DNRXotqV/M0YRX5CwvaZ/AjsY1NfGc09MBFNLkryA5Ax61Y34zD+u4IvW01ndIu6VuybKA==",
   "success": true,
-  "projectFilePath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Api\\Ecommerce.Api.csproj",
+  "projectFilePath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Api\\Ecommerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

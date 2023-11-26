@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Ecommerce.Api.Controllers;
 
 [ApiController]
+// Clase que maneja los endpoints
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
@@ -17,8 +18,9 @@ public class WeatherForecastController : ControllerBase
     {
         _logger = logger;
     }
-
-    [HttpGet(Name = "GetWeatherForecast")]
+    // Endpoint de tipo GET
+    //El string define el nombre de dicho endpoint
+    [HttpGet("GetWeatherForecast")] // Que devuelve un json con temperaturas para los dias
     public IEnumerable<WeatherForecast> Get()
     {
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
@@ -28,5 +30,11 @@ public class WeatherForecastController : ControllerBase
             Summary = Summaries[Random.Shared.Next(Summaries.Length)]
         })
         .ToArray();
+    }
+    //Endpoint de tipo GET extra
+    [HttpGet("TestAlter")] 
+    public string Test()
+    {
+        return "Hola, donde me expreso?";
     }
 }

@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Ecommerce.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Ecommerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Application.dll": {}
+        }
+      },
+      "Ecommerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Ecommerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ecommerce.Application/1.0.0": {
+      "type": "project",
+      "path": "../Core/Ecommerce.Application/Ecommerce.Application.csproj",
+      "msbuildProject": "../Core/Ecommerce.Application/Ecommerce.Application.csproj"
+    },
+    "Ecommerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Core/Ecommerce.Domain/Ecommerce.Domain.csproj",
+      "msbuildProject": "../Core/Ecommerce.Domain/Ecommerce.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Ecommerce.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Tano\\.nuget\\packages\\": {}
@@ -13,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
       "projectName": "Ecommerce.Infrastructure",
-      "projectPath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +68,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

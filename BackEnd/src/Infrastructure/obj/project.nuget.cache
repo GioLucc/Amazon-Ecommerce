@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "61c3XGJ9MLPJT9eZzV1YSOBfwtBnbkMDNEY8M3wBJYVJg/LCPOaHRpq2jC4ZfgfK2uNDQVTK+RWsy2aUwc8AhA==",
+  "dgSpecHash": "tG+LzO9BNvT9G/1kXMRJVTt/9YcLSsie4BNM0qNrrMyXfYDfEv2AZRnjAgM+cWRzF5e0PWuwU1oZ7h+oZ6yYvA==",
   "success": true,
-  "projectFilePath": "E:\\Visual Studio Code Workspace\\Amazon\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
