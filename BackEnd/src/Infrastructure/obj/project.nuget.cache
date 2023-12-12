@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SEEat4FLkyXL/czqrkxBRhwK3dnWJHtEdajb6Hy77vCZ45Bu2LrHkPpKh8BqNrb94T0CmbYQ5990pAFWw9HDkA==",
+  "dgSpecHash": "aDOM4nuy5Lo40A3LDFaqIUcBIwaRSXXwYQ6wicOJP3l3Ixv8QI52ZarISXqSuEXP9Zg1gnvMxoICGks/LdWCMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -50,7 +50,10 @@
     "C:\\Users\\Tano\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\Tano\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
