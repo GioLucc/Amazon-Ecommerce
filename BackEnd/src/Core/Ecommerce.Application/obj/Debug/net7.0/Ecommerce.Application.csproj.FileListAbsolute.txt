@@ -13,3 +13,4 @@ C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\ob
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\refint\Ecommerce.Application.dll
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.pdb
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\ref\Ecommerce.Application.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.sourcelink.json

@@ -37,3 +37,9 @@ C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Api\obj\Debug\net7.0\refint\E
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Api\obj\Debug\net7.0\Ecommerce.Api.pdb
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Api\obj\Debug\net7.0\Ecommerce.Api.genruntimeconfig.cache
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Api\obj\Debug\net7.0\ref\Ecommerce.Api.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.sourcelink.json

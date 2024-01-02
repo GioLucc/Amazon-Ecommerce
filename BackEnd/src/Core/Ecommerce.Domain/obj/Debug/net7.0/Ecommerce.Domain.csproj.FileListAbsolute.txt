@@ -10,3 +10,4 @@ C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Domain\obj\Deb
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll
+C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.sourcelink.json
