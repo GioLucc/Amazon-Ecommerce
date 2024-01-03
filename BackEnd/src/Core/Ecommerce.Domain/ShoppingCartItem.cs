@@ -16,6 +16,7 @@ public class ShoppingCartItem : BaseDomainModel
     public int ShoppingCartId { get; set; }
     public int ProductId { get; set; }
     public int Stock { get; set; }
+    public virtual ShoppingCart? ShoppingCart {get;set;}
 
 
 
