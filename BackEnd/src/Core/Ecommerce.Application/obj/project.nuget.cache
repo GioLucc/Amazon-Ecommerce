@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmGJIWxZy/eMdqV1fyZlfGE1cmMm4MitBerGXujwzCIrSODcD+re3mcbYLjgngusAV/qDoMfgYS9v61QPPmsAA==",
+  "dgSpecHash": "iWht/qoUXOe4gZkr7SzU44sOsVDChTSm2GF4XL+a8EkFGBkMRqg1SzUVwCjs4ORCF/mNdGPelQZKiKM/lc5tJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "projectFilePath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -51,9 +51,9 @@
     "C:\\Users\\Tano\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P+HG080jJUvntd7cvmu3CJ66FQr21sOf19vE61I4vZ+n92F3r0PcaVrQA9rcW9pXagkoC5imV4LlxVEYvIAS7g==",
+  "dgSpecHash": "4VXrX+CJ1E2/kGzYDk5ene3NFiourdaTYLkbmWYjcwkM9IPQszjgp4mjDHWpgHH5ImJYH4DycfqZ2WJKcGT4zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -51,9 +51,9 @@
     "C:\\Users\\Tano\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {}
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "projectName": "Ecommerce.Application",
-        "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\obj\\",
+        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-                "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
               }
             }
           }
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -57,15 +62,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -73,18 +78,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\obj\\",
+        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,6 +112,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -136,15 +146,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -152,18 +162,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
         "projectName": "Ecommerce.Infrastructure",
-        "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,8 +190,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-                "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
               }
             }
           }
@@ -190,6 +200,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -241,15 +256,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.17, 7.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -257,7 +272,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

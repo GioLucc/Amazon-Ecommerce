@@ -16,3 +16,23 @@ C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.pdb
 C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\ref\Ecommerce.Infrastructure.dll
 C:\Users\Tano\Desktop\Amazon-Ecommerce\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.sourcelink.json
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.deps.json
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.runtimeconfig.json
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.dll
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.pdb
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Application.dll
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Domain.dll
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Application.pdb
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Domain.pdb
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.sourcelink.json
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerc.43E367F3.Up2Date
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.dll
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\refint\Ecommerce.Infrastructure.dll
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.pdb
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.genruntimeconfig.cache
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Infrastructure\obj\Debug\net7.0\ref\Ecommerce.Infrastructure.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecommerce.Domain
-build_property.ProjectDir = C:\Users\Tano\Desktop\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Domain\
+build_property.ProjectDir = C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

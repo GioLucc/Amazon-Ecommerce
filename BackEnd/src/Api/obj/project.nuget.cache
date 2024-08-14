@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V9TUEW+BAAQ/5hJ3Mix2kDGZxHULRHgUtBHJDCMpcyaY7ei3f9l0eaFT6z3Uaxfy+d9eFQoWFDPWUshvspf6Qg==",
+  "dgSpecHash": "AT2yYkQNu0X4uK1Y+i/QSayMuPFt8uy0R76zzHdBJGkiVrePJIBDgJ3vYCiYtA2pdVEldcHuqFWu4NpYgIgJtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Api\\Ecommerce.Api.csproj",
+  "projectFilePath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Api\\Ecommerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tano\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -102,10 +102,10 @@
     "C:\\Users\\Tano\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Tano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

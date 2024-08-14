@@ -4530,11 +4530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
       "projectName": "Ecommerce.Infrastructure",
-      "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4551,8 +4551,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-              "projectPath": "C:\\Users\\Tano\\Desktop\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
             }
           }
         }
@@ -4561,6 +4561,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4612,15 +4617,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
+            "version": "[7.0.17, 7.0.17]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
+            "version": "[7.0.17, 7.0.17]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
+            "version": "[7.0.17, 7.0.17]"
           }
         ],
         "frameworkReferences": {
@@ -4628,8 +4633,30 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.25.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.25.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g9c-28fc-mcx2",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,2 @@
+Primeros pasos - creación del proyecto mediante modelo Clean Architecture:
+El proyecto está separado por capas mediante git bash se crean las librerias Api, Core, e Infrastructure
