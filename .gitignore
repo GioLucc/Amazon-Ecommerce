@@ -1,2 +1,11 @@
 /bin/
 /obj/
+BackEnd/src/Api/obj/Debug/net7.0/Ecommerce.Api.AssemblyInfo.cs
+BackEnd/src/Api/obj/Debug/net7.0/Ecommerce.Api.AssemblyInfoInputs.cache
+BackEnd/src/Core/Ecommerce.Application/obj/Debug/net7.0/Ecommerce.Application.AssemblyInfo.cs
+BackEnd/src/Core/Ecommerce.Application/obj/Debug/net7.0/Ecommerce.Application.AssemblyInfoInputs.cache
+BackEnd/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.AssemblyInfo.cs
+BackEnd/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.AssemblyInfoInputs.cache
+BackEnd/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.AssemblyInfo.cs
+BackEnd/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+BackEnd/src/Core/Ecommerce.Application/obj/Debug/net7.0/Ecommerce.Application.AssemblyInfoInputs.cache
