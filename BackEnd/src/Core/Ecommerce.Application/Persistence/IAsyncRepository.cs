@@ -1,6 +1,6 @@
 using System.Linq.Expressions;
 
-namespace Ecommerce.Aplication.Persistence;
+namespace Ecommerce.Application.Persistence;
 
 public interface IAsyncRepository<T> where T : class
 {

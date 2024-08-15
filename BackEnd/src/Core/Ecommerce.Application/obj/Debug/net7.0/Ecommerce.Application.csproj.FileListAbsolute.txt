@@ -30,3 +30,5 @@ C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Appl
 C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\refint\Ecommerce.Application.dll
 C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.pdb
 C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\ref\Ecommerce.Application.dll
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.runtimeconfig.json
+C:\Visual Studio Code Workspace\Amazon-Ecommerce\BackEnd\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.genruntimeconfig.cache
