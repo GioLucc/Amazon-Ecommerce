@@ -14,6 +14,9 @@ using Microsoft.VisualBasic;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddInfrastructureServices(builder.Configuration);
+
 #region  Adds security to every endpoint in the project.
 builder.Services.AddControllers(opt =>
     {
