@@ -3,7 +3,7 @@ using System.Text;
 using Ecommerce.Domain;
 using Ecommerce.Domain.Common;
 
-namespace Ecommer.Domain;
+namespace Ecommerce.Domain;
 
 public class Product : BaseDomainModel
 {

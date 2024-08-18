@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cBbQzXDbT57WV+63eRhxeEcFunMYuwyrteCilaFdqcxC2ged0+N9NqJ1M5/Bdxdz/7008GePvI3ctqPpj9IdXw==",
+  "dgSpecHash": "d+gco8fkAB7p7dVO+N2siv7jMedUCw7tS8CseEqh9JQ6bxWPN6LlwIqCfHaI02g5tL9Uqq6nnQME80da2kkZpQ==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "projectFilePath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tano\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

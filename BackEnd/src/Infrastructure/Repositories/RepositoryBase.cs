@@ -8,7 +8,7 @@ using Ecommerce.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Expressions;
 
-namespace Ecommerce.Infrastructure.Repostories;
+namespace Ecommerce.Infrastructure.Persistence.Repostories;
 
 // Generic for every model in Domain
 public class RepositoryBase<T> : IAsyncRepository<T> where T : class

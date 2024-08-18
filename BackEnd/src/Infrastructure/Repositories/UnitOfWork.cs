@@ -1,10 +1,7 @@
 using System.Collections;
 using Ecommerce.Application.Persistence;
-using Ecommerce.Infrastructure.Persistence;
-using Ecommerce.Infrastructure.Repostories;
 
-
-namespace Ecommerce.Infrastructure.Repositories;
+namespace Ecommerce.Infrastructure.Persistence.Repostories;
 
 public class UnitOfWork : IUnitOfWork
 {

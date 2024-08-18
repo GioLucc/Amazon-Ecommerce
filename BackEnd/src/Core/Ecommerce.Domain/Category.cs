@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations.Schema;
-using Ecommer.Domain;
+using Ecommerce.Domain;
 using Ecommerce.Domain.Common;
 
 namespace Ecommerce.Domain;

@@ -5,7 +5,6 @@ using Microsoft.Extensions.Logging;
 using Ecommerce.Application.Models.Authorization;
 using System.Formats.Asn1;
 using Newtonsoft.Json;
-using Ecommer.Domain;
 using Ecommerce.Domain.Common;
 
 namespace Ecommerce.Infrastructure.Persistance;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7oo9GUd/47ZDq6mlVaDHqzHPZFERVmaZz9iAqO70tCmbLQJzByWjEGFbChqNGNfmrMz1y77B0LXkXSjd8ayUyQ==",
+  "dgSpecHash": "4VXrX+CJ1E2/kGzYDk5ene3NFiourdaTYLkbmWYjcwkM9IPQszjgp4mjDHWpgHH5ImJYH4DycfqZ2WJKcGT4zA==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Tano\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

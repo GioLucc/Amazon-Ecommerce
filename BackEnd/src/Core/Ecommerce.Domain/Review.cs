@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations.Schema;
-using Ecommer.Domain;
 using Ecommerce.Domain.Common;
 
 
