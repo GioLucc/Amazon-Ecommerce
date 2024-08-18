@@ -11,7 +11,7 @@ public class Order : BaseDomainModel // Copia del shopping cart con datos de la 
     public Order(
         string buyerName,
         string buyerEmail,
-        OrderAdress orderAdress,
+        OrderAddress orderAdress,
         decimal subTotal,
         decimal total,
         decimal tax,
@@ -20,7 +20,7 @@ public class Order : BaseDomainModel // Copia del shopping cart con datos de la 
     ){
         BuyerName = buyerName;
         BuyerEmail = buyerEmail;
-        OrderAdress = orderAdress;
+        OrderAddress = orderAdress;
         SubTotal = subTotal;
         Total = total;
         Tax = tax;
@@ -30,7 +30,7 @@ public class Order : BaseDomainModel // Copia del shopping cart con datos de la 
 
     public string? BuyerName { get; set; }
     public string? BuyerEmail { get; set; }
-    public OrderAdress? OrderAdress { get; set; }
+    public OrderAddress? OrderAddress { get; set; }
     public IReadOnlyList<OrderItem>? OrderItems { get; set; } // Quantity of items in order
 
     [Column(TypeName = "decimal(10,2)")]

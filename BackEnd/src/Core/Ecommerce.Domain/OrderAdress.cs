@@ -4,7 +4,7 @@ using Ecommerce.Domain.Common;
 
 namespace Ecommerce.Domain;
 
-public class OrderAdress : BaseDomainModel // Class for the adress of each order
+public class OrderAddress : BaseDomainModel // Class for the adress of each order
 {
     public string? Adress {get; set; }
     public string? City {get; set; }

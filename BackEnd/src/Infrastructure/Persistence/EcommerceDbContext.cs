@@ -11,7 +11,7 @@ public class EcommerceDbContext : IdentityDbContext <User> {
     public EcommerceDbContext(DbContextOptions<EcommerceDbContext> options) : base(options) 
     {}
 
-    public virtual Task <int> SaveChangesAsync(CancellationToken cancellationToken)
+    public override Task <int> SaveChangesAsync(CancellationToken cancellationToken=default)
     {
         var userName = "system";
 
@@ -82,6 +82,6 @@ public class EcommerceDbContext : IdentityDbContext <User> {
     public DbSet<ShoppingCart>? ShoppingCarts { get; set; }   
     public DbSet<ShoppingCartItem>? shoppingCartItems { get; set; }   
     public DbSet<Country>? Countries { get; set; }   
-    public DbSet<OrderAdress>? orderAdresses { get; set; }   
+    public DbSet<OrderAddress>? orderAdresses { get; set; }   
 
 }

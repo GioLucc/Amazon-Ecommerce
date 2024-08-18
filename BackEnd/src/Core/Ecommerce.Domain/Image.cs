@@ -1,7 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using Ecommerce.Domain;
 
-
 namespace Ecommerce.Domain.Common;
 
 public class Image : BaseDomainModel
