@@ -3,7 +3,7 @@ using Ecommerce.Domain.Common;
 
 namespace Ecommerce.Domain;
 
-public class Adress : BaseDomainModel
+public class Address : BaseDomainModel
 {
     public string? Direccion { get; set; }
     public string? Ciudad { get; set; }

@@ -7,16 +7,22 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
-using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.IdentityModel.Tokens;
-using Microsoft.VisualBasic;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 builder.Services.AddInfrastructureServices(builder.Configuration);
+
+// Conection String injection
+builder.Services.AddDbContext<EcommerceDbContext>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString"),
+    b => b.MigrationsAssembly(typeof(EcommerceDbContext).Assembly.FullName)
+    )
+);
 
 #region  Adds security to every endpoint in the project.
 builder.Services.AddControllers(opt =>
@@ -40,34 +46,33 @@ builder.Services.TryAddSingleton<ISystemClock,SystemClock>();
 
 #region Token creation
 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:Key"]!));
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(
-opt => 
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+.AddJwtBearer(opt => 
 {
     opt.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
+        IssuerSigningKey = key,
         ValidateAudience = false,
         ValidateIssuer = false
     };
 });
 
-builder.Services.AddCors(opt => 
+builder.Services.AddCors(options =>
 {
-    opt.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+    options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin()
+    .AllowAnyMethod()
+    .AllowAnyHeader()
+    );
+    
 });
+
 #endregion
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
-// Conection String injection
-builder.Services.AddDbContext<EcommerceDbContext>(options => 
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString"),
-    b => b.MigrationsAssembly(typeof(EcommerceDbContext).Assembly.FullName)
-    )
-);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

@@ -14,9 +14,9 @@ public class ShoppingCartItem : BaseDomainModel
     public string? Categoria { get; set; }
     public Guid? ShoppingCartMasterId { get; set; }
     public int ShoppingCartId { get; set; }
+    public virtual ShoppingCart? ShoppingCart {get;set;}
     public int ProductId { get; set; }
     public int Stock { get; set; }
-    public virtual ShoppingCart? ShoppingCart {get;set;}
 
 
 

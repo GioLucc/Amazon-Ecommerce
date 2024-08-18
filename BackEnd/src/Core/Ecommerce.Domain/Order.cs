@@ -47,6 +47,7 @@ public class Order : BaseDomainModel // Copia del shopping cart con datos de la 
     [Column(TypeName = "decimal(10,2)")]
     public decimal ShippingPrice { get; set; }
 
+    public string? PaymentIntentId {get;set;}
     public string? ClientSecretCode { get; set; }
 
     public string? StripeApiKey { get; set; }

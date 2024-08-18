@@ -75,7 +75,7 @@ public class EcommerceDbContext : IdentityDbContext <User> {
     public DbSet<Product>? Products { get; set; }   
     public DbSet<Category>? Categories { get; set; }   
     public DbSet<Image>? Images { get; set; }   
-    public DbSet<Adress>? Adresses { get; set; }   
+    public DbSet<Address>? Addresses { get; set; }   
     public DbSet<Order>? Orders { get; set; }   
     public DbSet<OrderItem>? OrderItems { get; set; }   
     public DbSet<Review>? Reviews { get; set; }   
