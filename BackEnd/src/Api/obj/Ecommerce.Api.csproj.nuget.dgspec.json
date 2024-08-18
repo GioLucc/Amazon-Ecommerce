@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Api\\Ecommerce.Api.csproj": {}
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Api\\Ecommerce.Api.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Api\\Ecommerce.Api.csproj": {
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Api\\Ecommerce.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Api\\Ecommerce.Api.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "projectName": "Ecommerce.Api",
-        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Api\\Ecommerce.Api.csproj",
+        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Api\\obj\\",
+        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
               },
-              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj"
+              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "projectName": "Ecommerce.Application",
-        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\obj\\",
+        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,8 +126,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
               }
             }
           }
@@ -270,14 +270,14 @@
         }
       }
     },
-    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Domain\\obj\\",
+        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -354,14 +354,14 @@
         }
       }
     },
-    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
+    "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
         "projectName": "Ecommerce.Infrastructure",
-        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Tano\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -378,8 +378,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\BackEnd\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "C:\\Visual Studio Code Workspace\\Amazon-Ecommerce\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
               }
             }
           }

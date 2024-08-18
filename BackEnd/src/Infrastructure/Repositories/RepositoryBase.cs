@@ -1,13 +1,14 @@
-namespace Ecommerce.Persistence.Repostories;
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Ecommerce.Application.Persistence;
+using Ecommerce.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Expressions;
+
+namespace Ecommerce.Infrastructure.Repostories;
 
 // Generic for every model in Domain
 public class RepositoryBase<T> : IAsyncRepository<T> where T : class
