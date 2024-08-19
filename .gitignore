@@ -2,4 +2,7 @@
 /obj/
 BackEnd/src/Api/appsettings.json
 .vscode
-
+BackEnd/src/Api/obj/
+BackEnd/src/Core/Ecommerce.Application/obj/
+BackEnd/src/Core/Ecommerce.Domain/obj/
+BackEnd/src/Infrastructure/obj/
