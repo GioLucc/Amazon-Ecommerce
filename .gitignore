@@ -6,3 +6,7 @@ BackEnd/src/Api/obj/
 BackEnd/src/Core/Ecommerce.Application/obj/
 BackEnd/src/Core/Ecommerce.Domain/obj/
 BackEnd/src/Infrastructure/obj/
+BackEnd/src/Api/bin/
+BackEnd/src/Core/Ecommerce.Application/bin/
+BackEnd/src/Core/Ecommerce.Domain/bin/
+BackEnd/src/Infrastructure/bin/
