@@ -8,9 +8,13 @@ using Ecommerce.Application.Contracts.Infrastructure;
 using Ecommerce.Application.Models.ImageManagement;
 using Microsoft.Extensions.Options;
 
+
 public class ManageImageService : IManageImageService
 {
+    // Class that represents the account information for upload
     public CloudinarySettings _cloudinarySettigs { get;}
+
+    //get the settings from the cloudinary key on settings.json
     public ManageImageService(IOptions<CloudinarySettings> cloudinarySettigs)
     {
         _cloudinarySettigs = cloudinarySettigs.Value;
@@ -24,6 +28,7 @@ public class ManageImageService : IManageImageService
             _cloudinarySettigs.ApiSecret
         );
 
+        // After validating the account we will specify the image data to upload
         var cloudinary = new Cloudinary(account);
         var uploadImage = new ImageUploadParams()
         {
@@ -32,6 +37,7 @@ public class ManageImageService : IManageImageService
 
         var uploadResult = await cloudinary.UploadAsync(uploadImage);
 
+        // If everything was correct we return the instance of the class with the image data on cloudinary
         if(uploadResult.StatusCode == HttpStatusCode.OK)
         {
             return new ImageResponse
